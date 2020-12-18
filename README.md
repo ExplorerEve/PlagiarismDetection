@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is the final solution of the Plagiarism Detector Project for the Udacity ML Engineer Nanodegree program. It examins a text file and performs bindary classification; labeling the file as either plagiarized or not, depending on how similar the text file is to a provided source text.
+This is the final solution of the Plagiarism Detector Project for the Udacity ML Engineer Nanodegree program. It examines a text file and performs binary classification; labeling the file as either plagiarized or not, depending on how similar the text file is to a provided source text.
 
 This project is broken down into three main notebooks:
 
